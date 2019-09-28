@@ -2,4 +2,4 @@
 
 Мои домашки
 
-[Сайт №1](zvaruch.github.io./Site1 "Мой первый сайт!")
+[Сайт №1](zvaruch.github.io./Site "Мой первый сайт!")
